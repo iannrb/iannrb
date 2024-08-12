@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ian Rossato
 
-<!--
-**iannrb/iannrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Backend Developer`**
 
-Here are some ideas to get you started:
+Tech, sports and storytelling lover. Now focusing on backend-development and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/ianrossato/" aria-label="Ian Rossato LinkedIn Profile">
+    <img alt="Linkedin Profile" title="Check my LinkedIn profile" src="https://img.shields.io/badge/Ian_Rossato-3295a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ian007953@gmail.com" aria-label="Contact Ian Rossasto via Email">
+    <img alt="Email me" title="Contact me on email" src="https://img.shields.io/badge/ian007953@gmail.com-3295a8?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+
+#
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+### 🧠 Latest project
+[Blue Future](https://github.com/arthvm/blue-future)
