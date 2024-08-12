@@ -31,5 +31,5 @@ Tech, sports and storytelling lover. Now focusing on backend-development and dat
 ### 🧠 Latest project
 
 <p align="left">
-  Blue Future: (https://github.com/arthvm/blue-future)
+  Blue Future: https://github.com/arthvm/blue-future
 </p>
