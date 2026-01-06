@@ -1,8 +1,8 @@
 # Ian Rossato
 
-**`Backend Developer`**
+**`FullStack Developer`**
 
-Web development intern at Instituto Presbiteriano Mackenzie. Currently focused on back-end development, microservices, Python automations and projects involving machine learning.
+Junior Web Developer at Instituto Presbiteriano Mackenzie.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ianrossato/" aria-label="Ian Rossato LinkedIn Profile">
@@ -18,9 +18,10 @@ Web development intern at Instituto Presbiteriano Mackenzie. Currently focused o
 ### 🧰 Tech Stack
 
 <div align="left">
-  <img alt="Go" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  <img alt="Next.js" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img alt="Node.js" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="TypeScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="Go" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
