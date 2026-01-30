@@ -33,20 +33,20 @@ Junior Web Developer at Instituto Presbiteriano Mackenzie.
 
 ### 🚀 Featured Projects
 
-- ⚙️ **AutoInsight**  
-  A platform that connects drivers and mechanics, using AI to predict costs and identify problems. Finalist in the FIAP + Porto Seguro Challenge.
-
-- 📚 **SME QR Code Management System**  
-  Complete platform for managing dynamic QR codes in textbooks, using Next.js, Fastify, PostgreSQL and CI/CD with GitHub Actions. Deployed via Docker Swarm and tested with PlayWright.
+- 📚 **MackEnsina Platform**  
+  Full-stack contributions to an educational platform used across Mackenzie schools. Built with Next.js, Go/Node microservices, and PostgreSQL.
 
 - 🤖 **RAG Chatbot for SME**  
   Built a RAG pipeline using PostgreSQL + pgvector for semantic search, with custom scraping and markdown processing. Integrated with the chatbot through n8n to deliver contextual responses.
+
+- ⚙️ **AutoInsight**  
+  A platform that connects drivers and mechanics, using AI to predict costs and identify problems. Finalist in the FIAP + Porto Seguro Challenge.
 
 - 🧪 **Neural Track**  
   A scientific research project that uses ESP32 and EMG sensors to monitor muscular and heart activity. Data is visualized through a live web dashboard.
 
 ---
 
-🧑‍🎓 *Associate degree in Systems Analysis and Development at <a href="https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/?gad_campaignid=21102294227&gbraid=0AAAAADqmiBD9QynaRL429N-hxt7kDjrVp" aria-label="FIAP Site">FIAP</a>.*
+🧑🎓 *Associate degree student in Systems Analysis and Development at FIAP.*
 
-*All my projects are built with this idea in mind: "What new things can I learn from this?"*  
+*All my projects are built with this idea in mind: "What new things can I learn from this?"*
