@@ -47,6 +47,6 @@ Junior Web Developer at Instituto Presbiteriano Mackenzie.
 
 ---
 
-🧑‍🎓 *Associate degree student in Systems Analysis and Development at FIAP.*
+🧑‍🎓 *Associate degree in Systems Analysis and Development at <a href="https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/?gad_campaignid=21102294227&gbraid=0AAAAADqmiBD9QynaRL429N-hxt7kDjrVp" aria-label="FIAP Site">FIAP</a>.*
 
 *All my projects are built with this idea in mind: "What new things can I learn from this?"*  
