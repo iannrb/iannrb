@@ -43,7 +43,7 @@ Junior Web Developer at Instituto Presbiteriano Mackenzie.
   A platform that connects drivers and mechanics, using AI to predict costs and identify problems. Finalist in the FIAP + Porto Seguro Challenge.
 
 - 🧪 **Neural Track**  
-  A scientific research project that uses ESP32 and EMG sensors to monitor muscular and heart activity. Data is visualized through a live web dashboard.
+  An Undergraduate Research Project that uses ESP32 and EMG sensors to monitor muscular and heart activity. Data is visualized through a live web dashboard.
 
 ---
 
